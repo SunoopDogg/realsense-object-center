@@ -1,0 +1,4 @@
+enable_color: true
+enable_depth: true
+align_depth.enable: true
+enable_sync: true
