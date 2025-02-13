@@ -1,0 +1,13 @@
+# 빌드 디렉토리
+build/
+install/
+log/
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ROS 2 워크스페이스 설정 파일
+.colcon/
