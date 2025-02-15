@@ -11,9 +11,6 @@ Intel RealSense 카메라를 사용하여 객체의 위치와 깊이를 감지�
 # 패키지를 클론합니다.
 git clone https://github.com/SunoopDogg/realsense-object-center.git
 
-# 디렉토리로 이동합니다.
-cd realsense-object-center
-
 # 필요한 패키지를 설치합니다.
 sudo apt update
 sudo apt install -y ros-$ROS_DISTRO-cv-bridge python3-opencv
