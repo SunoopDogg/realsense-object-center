@@ -1,9 +1,9 @@
-# realsense-python
+# realsense-object-center
 
 Intel RealSense 카메라를 사용하여 객체의 위치와 깊이를 감지하는 ROS 2 패키지입니다.
 
 ## 사용 기술
-`ROS 2 Humble` `Intel RealSense` `OpenCV` `cv_bridge` `Python 3.10`
+`ROS2 Humble` `Intel RealSense` `OpenCV` `cv_bridge` `Python3.10`
 
 ## 설치
 
