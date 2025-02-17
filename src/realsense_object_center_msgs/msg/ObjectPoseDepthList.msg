@@ -1,0 +1,1 @@
+realsense_object_center_msgs/ObjectPoseDepth[] objects
